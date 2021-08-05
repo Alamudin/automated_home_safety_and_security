@@ -131,7 +131,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
     super.initState();
   }
 }
-
 class DashboardArguments {
   final int studentId;
   final String studentName;
